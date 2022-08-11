@@ -2,7 +2,7 @@
 
 Pharmacy Management system using Python
 
-Semester 4 RPPOOP Project
+Semester 4 RPPOOP (Rapid Prototyping using Object Oriented Programing) Project
 
 components of project :
 
